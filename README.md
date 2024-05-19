@@ -11,11 +11,11 @@ A real-time chat application built with Spring Boot that allows users to connect
 
 1. Clone the repository.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rajneeshkabdwal4/chat
    ```
 2. Navigate to the project directory.
    ```bash
-   cd chatapp
+   cd chat
    ```
 3. Install the dependencies.
    ```bash
